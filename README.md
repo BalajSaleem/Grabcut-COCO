@@ -1,4 +1,4 @@
-# coco,py
+# coco.py
 A simple program to run grabcut on various categories of COCO dataset (2017 validation dataset) and calculate the IOU.
 It basically compares the accuracy of grabcut on different images and objects vs the human segmented, ground truth. 
 It also presents some images ground truth and grabcut output.]
